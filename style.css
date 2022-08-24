@@ -1,0 +1,12 @@
+.socialDiv{
+    background: url(https://www.timeforkids.com/wp-content/uploads/2021/01/K1_CMS_0129_1.jpg);
+}
+.sDiv{
+    margin-top: 150px;
+}
+body{
+    background-image: linear-gradient(to right top, #ecea14, #f3d100, #f7b900, #f6a108, #f2891b);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
